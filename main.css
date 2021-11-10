@@ -22,4 +22,8 @@ max-height: 39rem;
 #intro {
     width: 90% !important;
 }
+.servicio-fila {
+    width: 100% !important;
+    text-align: center;
+}
 }
